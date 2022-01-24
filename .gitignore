@@ -1,0 +1,12 @@
+.idea
+
+dist/
+
+**/node_modules
+**/target/
+
+**/.vim
+**/.settings
+**/.project
+**/.classpath
+**/bin/

@@ -1,0 +1,30 @@
+{
+  "name": "example-keepass-and-typescript",
+  "version": "1.0.0",
+  "description": "example showing hoe to use keepass programmatically",
+  "main": "app.js",
+  "scripts": {
+    "start": "node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProofOfPizza/example-keepass-and-typescript.git"
+  },
+  "keywords": [
+    "keepass",
+    "typescript"
+  ],
+  "author": "ProofOfPizza",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ProofOfPizza/example-keepass-and-typescript/issues"
+  },
+  "homepage": "https://github.com/ProofOfPizza/example-keepass-and-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "keepass.io": "^1.1.4"
+  }
+}
