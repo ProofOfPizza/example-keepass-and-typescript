@@ -8,7 +8,9 @@ The `users.kdbx` encrypted keepass database has a password: `super-secret12#$`
 
 To use it simply:
 
+```
 git clone git@github.com:ProofOfPizza/example-keepass-and-typescript.git
 npm install
 tsc
 KEEPASS_PW=super-secret12#$ npm start
+```
